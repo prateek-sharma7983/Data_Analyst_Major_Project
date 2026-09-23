@@ -1,57 +1,70 @@
-# 🎵 Spotify Music Analytics Dashboard
+# 📊 Data Analytics — Major Projects
 
-An interactive **Spotify Music Analytics Dashboard** built using **Microsoft Excel** to analyze music streaming data, artist performance, genres, popularity, and streaming trends.
+A collection of **Data Analytics projects** focused on transforming raw data into meaningful insights through data cleaning, analysis, visualization, and dashboards.
 
-## 🔗 Project
+This repository contains my practical work and projects developed while learning and applying **Data Analytics concepts and tools**.
 
-📊 **[View / Download Spotify Dashboard](./spotify.xlsx)**
+---
 
-## 📊 About the Project
+## 🚀 Projects
 
-This project transforms Spotify music data into an interactive and visually engaging dashboard.
+### 1. 🎵 Spotify Music Analytics Dashboard
 
-The dashboard makes it easier to explore music streaming patterns and understand the performance of different artists, songs, and genres.
+An interactive **Spotify Music Analytics Dashboard** created using Microsoft Excel.
 
-## ✨ Features
+The project analyzes:
 
-- 🎤 Top Streamed Artists
-- 🎧 Genre Distribution
-- 📈 Streams & Popularity Analysis
-- ⭐ Song Popularity Analysis
-- 🎵 Genre-wise Streaming Analysis
-- 📅 Release Year Analysis
-- 📊 Interactive Data Visualizations
+- 🎤 Artist streaming performance
+- 🎧 Music genre distribution
+- 📈 Streams and popularity
+- ⭐ Song popularity
+- 📅 Release-year analysis
+- 🎵 Genre-wise streaming performance
 
-## 🔍 Dashboard Insights
+**Tools:** Microsoft Excel, Pivot Tables, Pivot Charts, Data Visualization
 
-The dashboard can be used to analyze:
+📂 **[View Project](./Spotify_Music_Analytics/)**
 
-- Top-performing artists based on total streams
-- Distribution of different music genres
-- Popularity scores of songs
-- Streaming performance across different genres
-- Relationship between streams and popularity
-- Streaming trends based on release years
+---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Skills & Tools
 
-- **Microsoft Excel**
-- **Pivot Tables**
-- **Pivot Charts**
-- **Data Analysis**
-- **Data Visualization**
-- **Dashboard Design**
+### 📊 Data Analysis
+- Data Cleaning
+- Data Exploration
+- Data Analysis
+- Statistical Analysis
+- Finding Trends & Patterns
 
-## 🎯 Project Objective
+### 📈 Data Visualization
+- Excel Charts
+- Pivot Charts
+- Dashboards
+- Interactive Visualizations
 
-The objective of this project is to convert raw Spotify data into a **clear, interactive, and visually engaging dashboard** that helps users identify important patterns and trends in music streaming data.
+### 🧰 Tools
+- Microsoft Excel
+- SQL
+- Python
+- Pandas
+- NumPy
+- Power BI
 
-## 🧠 Skills Demonstrated
+---
 
-`Excel` · `Data Analysis` · `Data Visualization` · `Pivot Tables` · `Pivot Charts` · `Dashboard Design`
+## 🎯 Repository Objective
 
-## 👨‍💻 Author
+The goal of this repository is to build a strong **Data Analytics portfolio** through practical projects.
 
-**Prateek Sharma**
+Each project focuses on solving a real-world style data problem by:
 
-⭐ If you find this project useful, consider giving the repository a star!
+```text
+Raw Data
+    ↓
+Data Cleaning
+    ↓
+Data Analysis
+    ↓
+Data Visualization
+    ↓
+Insights
